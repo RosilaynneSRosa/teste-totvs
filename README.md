@@ -28,3 +28,10 @@ Esse aplicativo deve ter a possibilidade de criar listas e dentro delas adiciona
 No diretório public estão os arquivos `index.html` e `styles.css` e no diretório src está o arquivo `main.js`.
 
 Após isso é só codar!
+
+
+# Instale a versão 0.15.0 do json-server, utilizando o comando: npm install -g json-server@0.15.0
+# Instale o jquery, utilizando o comando: yarn add jquery
+# Instale o bootstrap, utilizando o comando: yarn add bootstrap
+# Rode o fake REST API, utilizando o comando: json-server --delay 500 db.json
+
